@@ -1,0 +1,19 @@
+{
+  "name": "a9dedcdf4350fd417819ee6538482aae-6b589aae13efb3e458e81a8b42c78836f362ed8d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_redis_cache.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "redis": "^3.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
